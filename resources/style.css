@@ -1,3 +1,41 @@
-html{
-    border: 1px solid black;
+html {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 42px;
+    text-align: center;
+    font-weight: 300px; 
+}
+
+p{
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    text-align: center;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+footer p{
+    text-align: right;
+    color: gray;
+    margin-right: 20px;
+}
+
+.ComingSoon{
+    margin-top: 20px;
 }
